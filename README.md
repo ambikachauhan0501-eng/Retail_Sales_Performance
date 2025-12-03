@@ -24,13 +24,15 @@ It highlights KPIs such as Total Sales, Total Profit, Profit Margin %, Orders Co
 - Sales by Region (Map)
 - Segment-wise Sales (Pie Chart)
 
+## Key Learnings
+- Built a star schema for clean relationships
+- Created reusable DAX measures
+- Designed recruiter-ready visuals with alignment and storytelling
+
+
 ## Key Insights
 - Technology category generated the highest profit
 - Consumer segment contributed over 50% of total sales
 - Sales peaked in Q4, especially November and December
 
 
-## Key Learnings
-- Built a star schema for clean relationships
-- Created reusable DAX measures
-- Designed recruiter-ready visuals with alignment and storytelling
