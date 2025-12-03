@@ -9,6 +9,13 @@ It highlights KPIs such as Total Sales, Total Profit, Profit Margin %, Orders Co
 - SQL (data cleaning & modeling)
 - Power BI (visualization & dashboarding)
 
+ ##  Project Workflow
+1. Raw data cleaning in SQL (`01_Data_Cleaning.sql`)
+2. Star schema modeling (`02_Dimension_Tables.sql`, `03_FactOrders_and_Analysis.sql`)
+3. KPI validation and business queries
+4. Power BI dashboard creation
+
+
 ## Dashboard Features
 - KPI cards for quick insights
 - Profit by Category (Bar Chart)
@@ -16,6 +23,12 @@ It highlights KPIs such as Total Sales, Total Profit, Profit Margin %, Orders Co
 - Monthly Sales Trend (Line Chart)
 - Sales by Region (Map)
 - Segment-wise Sales (Pie Chart)
+
+## Key Insights
+- Technology category generated the highest profit
+- Consumer segment contributed over 50% of total sales
+- Sales peaked in Q4, especially November and December
+
 
 ## Key Learnings
 - Built a star schema for clean relationships
