@@ -1,5 +1,5 @@
 # Retail_Sales_Performance
-“Retail sales dashboard built with SQL + Power BI, showcasing KPIs, trends, and customer insights
+“Retail sales dashboard built with SQL + Power BI, showcasing KPIs, trends, and customer insights"
 
 ## Project Overview
 This project analyzes retail sales data using SQL and Power BI.  
